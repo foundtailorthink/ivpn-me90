@@ -1,10 +1,10 @@
-Best IVPN Utility | P2P support + OpenVPN support is the best IVPN utility with P2P support and OpenVPN support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/ivpn-me90/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
